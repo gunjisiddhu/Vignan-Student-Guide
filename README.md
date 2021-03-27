@@ -4,6 +4,9 @@ Simple user guide of Vignan University using all concepts of C language.
 This is a mini project which covers all the main concepts of C language.
 
 
+*All the SourceCode is written in C Language and All the information is inside the source code and details in text document*
+
+
 Contents of Mini Project:
 1.Login/Open Page:
   We can choose between already existing and new Users, when new user is created the details will be stored in the folder.
@@ -15,6 +18,11 @@ Contents of Mini Project:
 3.Get Councellor details and Section details:
   Enter your roll number and get your respective details.
   **I created a file with some basic info, You can use this info for basic function, Edit that file according to your purpose**
+  
+  
 4.Information about College Transport:
   I added a list of cities to the program source code, from this list a city can be chosen to get the details of the transport details.
-5.
+  
+  
+5. College Navigation and Details:
+  Give details about the details of everything around college in simple words.
